@@ -283,7 +283,6 @@ import {
 	CInput,
 	CStack
 } from '@chakra-ui/vue'
-
 import CardPortfolio from '~/components/CardPortfolio.vue'
 import Footer from "../components/Footer.vue"
 export default {
